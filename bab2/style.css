@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: brown;
+}
+
+#table-siswa {
+    border-collapse: collapse;
+    background-image: url(img/img.png);
+    background-size: 100%;
+    background-repeat: repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+}
+
+#table-siswa h3 {
+    font-size: 32px;
+}
+
+#tables-siswa td {
+    padding: 20px;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
